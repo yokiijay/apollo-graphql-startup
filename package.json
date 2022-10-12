@@ -18,6 +18,6 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
-    "apollo-server": "^2.15.0"
+    "apollo-server": "^2.25.4"
   }
 }
